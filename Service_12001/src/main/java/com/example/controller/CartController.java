@@ -30,9 +30,7 @@ public class CartController {
 
     @GetMapping("/addCart/{userId}")
     public CommonResult<User> addCart(@PathVariable Integer userId)throws InterruptedException{
-        System.out.println("进入方法");
         CommonResult<User> list = userFeignService.addCart(userId);
-        System.out.println("离开方法");
         return list;
     }
 
