@@ -9,6 +9,14 @@
     <version>1.0-SNAPSHOT</version>
     <!--    父项目-->
     <packaging>pom</packaging>
+    <modules>
+        <module>Eureka_Service_13000</module>
+        <module>Eureka_Service_13001</module>
+        <module>Service_11000</module>
+        <module>Service_11001</module>
+        <module>Service_12000</module>
+        <module>Service_12001</module>
+    </modules>
 
 
     <properties>
