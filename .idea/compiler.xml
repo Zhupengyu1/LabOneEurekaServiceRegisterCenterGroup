@@ -8,10 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Eureka_Service_13000" />
         <module name="Eureka_Service_13001" />
+        <module name="Service_12000" />
+        <module name="Service_11000" />
+        <module name="Service_12001" />
+        <module name="Service_11001" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Service_12000" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

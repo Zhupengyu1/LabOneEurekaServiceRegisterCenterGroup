@@ -13,6 +13,8 @@
         <module>Eureka_Service_13001</module>
         <module>Service_11000</module>
         <module>Service_11001</module>
+        <module>Service_12000</module>
+        <module>Service_12001</module>
     </modules>
 
 
